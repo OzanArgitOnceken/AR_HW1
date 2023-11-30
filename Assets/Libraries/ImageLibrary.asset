@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5430993395014940168
+  m_GuidHigh: 15357431236887610536
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4798065738284202993
+      m_GuidHigh: 14508783890582541208
+    m_SerializedTextureGuid:
+      m_GuidLow: 4887770531748650228
+      m_GuidHigh: 5159845628744167675
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Cube
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4665926124567808480
+      m_GuidHigh: 10161219719710693565
+    m_SerializedTextureGuid:
+      m_GuidLow: 10629649094197922732
+      m_GuidHigh: 1870573545355091050
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: jumpingSpider
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5761470153469275250
+      m_GuidHigh: 9407405078475495861
+    m_SerializedTextureGuid:
+      m_GuidLow: 18294805526269708081
+      m_GuidHigh: 3561105721948809785
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: walkingCapsulePlatform
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5704973201361920993
+      m_GuidHigh: 14484166043367479197
+    m_SerializedTextureGuid:
+      m_GuidLow: 10211016042418279871
+      m_GuidHigh: 16363513457880428091
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: OzanText
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5655954444255907876
+      m_GuidHigh: 4838084373180330172
+    m_SerializedTextureGuid:
+      m_GuidLow: 14327211814730482226
+      m_GuidHigh: 16802750286600772730
+    m_Size: {x: 0.2, y: 0.3133758}
+    m_SpecifySize: 1
+    m_Name: VideoQuad
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4674594448799290358
+      m_GuidHigh: 7995483264337412287
+    m_SerializedTextureGuid:
+      m_GuidLow: 667879074248719757
+      m_GuidHigh: 17858177097672533099
+    m_Size: {x: 0.2, y: 0.32095033}
+    m_SpecifySize: 1
+    m_Name: PhotoQuad
+    m_Texture: {fileID: 0}
